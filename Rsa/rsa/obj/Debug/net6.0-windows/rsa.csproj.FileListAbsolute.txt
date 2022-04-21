@@ -1,0 +1,17 @@
+C:\Users\rusla\Desktop\Darbai\Daugiagijis\rsa\rsa\bin\Debug\net6.0-windows\rsa.exe
+C:\Users\rusla\Desktop\Darbai\Daugiagijis\rsa\rsa\bin\Debug\net6.0-windows\rsa.deps.json
+C:\Users\rusla\Desktop\Darbai\Daugiagijis\rsa\rsa\bin\Debug\net6.0-windows\rsa.runtimeconfig.json
+C:\Users\rusla\Desktop\Darbai\Daugiagijis\rsa\rsa\bin\Debug\net6.0-windows\rsa.dll
+C:\Users\rusla\Desktop\Darbai\Daugiagijis\rsa\rsa\bin\Debug\net6.0-windows\ref\rsa.dll
+C:\Users\rusla\Desktop\Darbai\Daugiagijis\rsa\rsa\bin\Debug\net6.0-windows\rsa.pdb
+C:\Users\rusla\Desktop\Darbai\Daugiagijis\rsa\rsa\obj\Debug\net6.0-windows\rsa.csproj.AssemblyReference.cache
+C:\Users\rusla\Desktop\Darbai\Daugiagijis\rsa\rsa\obj\Debug\net6.0-windows\rsa.Form1.resources
+C:\Users\rusla\Desktop\Darbai\Daugiagijis\rsa\rsa\obj\Debug\net6.0-windows\rsa.csproj.GenerateResource.cache
+C:\Users\rusla\Desktop\Darbai\Daugiagijis\rsa\rsa\obj\Debug\net6.0-windows\rsa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusla\Desktop\Darbai\Daugiagijis\rsa\rsa\obj\Debug\net6.0-windows\rsa.AssemblyInfoInputs.cache
+C:\Users\rusla\Desktop\Darbai\Daugiagijis\rsa\rsa\obj\Debug\net6.0-windows\rsa.AssemblyInfo.cs
+C:\Users\rusla\Desktop\Darbai\Daugiagijis\rsa\rsa\obj\Debug\net6.0-windows\rsa.csproj.CoreCompileInputs.cache
+C:\Users\rusla\Desktop\Darbai\Daugiagijis\rsa\rsa\obj\Debug\net6.0-windows\rsa.dll
+C:\Users\rusla\Desktop\Darbai\Daugiagijis\rsa\rsa\obj\Debug\net6.0-windows\ref\rsa.dll
+C:\Users\rusla\Desktop\Darbai\Daugiagijis\rsa\rsa\obj\Debug\net6.0-windows\rsa.pdb
+C:\Users\rusla\Desktop\Darbai\Daugiagijis\rsa\rsa\obj\Debug\net6.0-windows\rsa.genruntimeconfig.cache
