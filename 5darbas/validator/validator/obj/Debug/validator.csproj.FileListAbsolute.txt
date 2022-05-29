@@ -1,0 +1,14 @@
+C:\Users\rusla\Desktop\Darbai\Saugumas\5darbas\validator\validator\bin\Debug\validator.exe.config
+C:\Users\rusla\Desktop\Darbai\Saugumas\5darbas\validator\validator\bin\Debug\validator.exe
+C:\Users\rusla\Desktop\Darbai\Saugumas\5darbas\validator\validator\bin\Debug\validator.pdb
+C:\Users\rusla\Desktop\Darbai\Saugumas\5darbas\validator\validator\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\rusla\Desktop\Darbai\Saugumas\5darbas\validator\validator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rusla\Desktop\Darbai\Saugumas\5darbas\validator\validator\bin\Debug\websocket-sharp.dll
+C:\Users\rusla\Desktop\Darbai\Saugumas\5darbas\validator\validator\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\rusla\Desktop\Darbai\Saugumas\5darbas\validator\validator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rusla\Desktop\Darbai\Saugumas\5darbas\validator\validator\obj\Debug\validator.csproj.AssemblyReference.cache
+C:\Users\rusla\Desktop\Darbai\Saugumas\5darbas\validator\validator\obj\Debug\validator.csproj.SuggestedBindingRedirects.cache
+C:\Users\rusla\Desktop\Darbai\Saugumas\5darbas\validator\validator\obj\Debug\validator.csproj.CoreCompileInputs.cache
+C:\Users\rusla\Desktop\Darbai\Saugumas\5darbas\validator\validator\obj\Debug\validator.csproj.CopyComplete
+C:\Users\rusla\Desktop\Darbai\Saugumas\5darbas\validator\validator\obj\Debug\validator.exe
+C:\Users\rusla\Desktop\Darbai\Saugumas\5darbas\validator\validator\obj\Debug\validator.pdb
