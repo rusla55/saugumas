@@ -1,0 +1,10 @@
+C:\Users\rusla\Desktop\Darbai\Saugumas\5darbas\server\server\bin\Debug\server.exe.config
+C:\Users\rusla\Desktop\Darbai\Saugumas\5darbas\server\server\bin\Debug\server.exe
+C:\Users\rusla\Desktop\Darbai\Saugumas\5darbas\server\server\bin\Debug\server.pdb
+C:\Users\rusla\Desktop\Darbai\Saugumas\5darbas\server\server\bin\Debug\websocket-sharp.dll
+C:\Users\rusla\Desktop\Darbai\Saugumas\5darbas\server\server\obj\Debug\server.csproj.AssemblyReference.cache
+C:\Users\rusla\Desktop\Darbai\Saugumas\5darbas\server\server\obj\Debug\server.csproj.SuggestedBindingRedirects.cache
+C:\Users\rusla\Desktop\Darbai\Saugumas\5darbas\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\rusla\Desktop\Darbai\Saugumas\5darbas\server\server\obj\Debug\server.csproj.CopyComplete
+C:\Users\rusla\Desktop\Darbai\Saugumas\5darbas\server\server\obj\Debug\server.exe
+C:\Users\rusla\Desktop\Darbai\Saugumas\5darbas\server\server\obj\Debug\server.pdb
